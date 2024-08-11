@@ -1,0 +1,1 @@
+this is a sample project i had to work on by using this link https://www.youtube.com/watch?v=0YFrGy_mzjY&list=PLL1t7GvDHg77UbD3m3MCfP2yNqXQt0xBT&index=7 as a guide for me to familiarize more on Javascript and CSS properties with real time projects such as portfolio
